@@ -18,7 +18,7 @@ struct InformationPage: View {
 
             ScrollView {
                 VStack(alignment: .leading, spacing: 20) {
-                    Text("What is Menstruation or a Period?")
+                    Text("What is Menstruation or a Period??")
                         .font(.custom("AlegreyaSans-Black", size: 32))
                         .bold()
                         .foregroundColor(Color(hue: 1.0, saturation: 0.977, brightness: 0.906, opacity: 0.652))
